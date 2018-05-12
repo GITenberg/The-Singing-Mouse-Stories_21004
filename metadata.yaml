@@ -1,0 +1,41 @@
+_repo: The-Singing-Mouse-Stories_21004
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bunker, Mayo
+    gutenberg_agent_id: '37018'
+    url: http://www.gutenberg.org/2009/agents/37018
+covers:
+- cover_type: archival
+  image_path: 21004-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: ''
+gutenberg_issued: '2007-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: The land of the singing mouse -- The burden of a song -- The little
+  river -- What the waters said -- Lake Belle-Marie -- The skull and the rose -- The
+  man of the mountain -- At the place of the oaks -- The birth of the hours -- The
+  stone that had no thought -- The tear and the smile -- How the mountains ate up
+  the plains -- The savage and its heart -- The beast terrible -- The passing of men
+  -- The house of Truth -- Where the city went -- The bell and the shadows -- Of the
+  greatest sorrow -- The shoes of the Princess -- Of white moths -- The House of Dreams.
+title: The Singing Mouse Stories
+url: http://www.gutenberg.org/ebooks/21004
